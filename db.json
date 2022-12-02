@@ -1,0 +1,243 @@
+{
+  "clientes": [
+    {
+        "id":84, 
+        "nome":"FELIPE ABRAO", 
+        "dataNasc":"2021-10-13", 
+        "email":"felipe@felipe.com.br",
+        "senha":"felipe", 
+        "troca_senha":"0", 
+        "papel":"administrador", 
+        "ativo":"1", 
+        "cpf":""
+    },
+    {
+        "id":4, 
+        "nome":"GERENTE", 
+        "dataNasc":"2021-10-06", 
+        "email":"sac@superfranzoni.com", 
+        "senha":"8af3550fe7c3dd2c3de940ea9844489f", 
+        "troca_senha":"0", 
+        "papel":"gerente", 
+        "ativo":"0", 
+        "cpf":"74859641526"
+    },
+    {
+        "id":5, 
+        "nome":"FUNCIONARIO", 
+        "dataNasc":"2021-10-06", 
+        "email":"sac@smpontonovo.com.br", 
+        "senha":"8af3550fe7c3dd2c3de940ea9844489f", 
+        "troca_senha":"0", 
+        "papel":"funcionario", 
+        "ativo":"1", 
+        "cpf":"12345678912"
+    },
+    {
+        "id":6, 
+        "nome":"PENETRA", 
+        "dataNasc":"2021-10-07", 
+        "email":"redemercadaocentral@gmail.com", 
+        "senha":"8af3550fe7c3dd2c3de940ea9844489f", 
+        "troca_senha":"0", 
+        "papel":"penetra", 
+        "ativo":"1", 
+        "cpf":"74859964152"
+    },
+    {
+        "id":83, 
+        "nome":"FELIPE GUSTAVO", 
+        "dataNasc":"2021-10-13", 
+        "email":"felipe@felipe.com.br", 
+        "senha":"felipe", 
+        "troca_senha":"0", 
+        "papel":"administrador", 
+        "ativo":"1", 
+        "cpf":""
+    },
+    {
+        "id":8, 
+        "nome":"TESTECAD", 
+        "dataNasc":"2021-10-07", 
+        "email":"sac@smpontonovo.com.br", 
+        "senha":"8af3550fe7c3dd2c3de940ea9844489f", 
+        "troca_senha":"0", 
+        "papel":"administrador", 
+        "ativo":"1", 
+        "cpf":"12345678912"
+    },
+    {
+        "id":9, 
+        "nome":"BAZAR", 
+        "dataNasc":"2021-10-15", 
+        "email":"sac@superfranzoni.com", 
+        "senha":"8af3550fe7c3dd2c3de940ea9844489f", 
+        "troca_senha":"0", 
+        "papel":"administrador", 
+        "ativo":"1", 
+        "cpf":"74159632585"
+    },
+    {
+        "id":109, 
+        "nome":"Adib", 
+        "dataNasc":"2021-10-10", 
+        "email":"adib@adib.com.br", 
+        "senha":"8af3550fe7c3dd2c3de940ea9844489f", 
+        "troca_senha":"0", 
+        "papel":"administrador", 
+        "ativo":"1", 
+        "cpf":"99999999999"
+    },
+    {
+        "id":11, 
+        "nome":"WOLVERINE", 
+        "dataNasc":"2021-10-13", 
+        "email":"redemercadaocentral@gmail.com", 
+        "senha":"8aa5077bed42925158af0dc3afbe1ddb", 
+        "troca_senha":"0", 
+        "papel":"administrador", 
+        "ativo":"1", 
+        "cpf":"74159632585"
+    },
+    {
+        "id":12, 
+        "nome":"TESTE1123", 
+        "dataNasc":"2021-10-06", 
+        "email":"sac@superfranzoni.com", 
+        "senha":"8aa5077bed42925158af0dc3afbe1ddb", 
+        "troca_senha":"0", 
+        "papel":"administrador", 
+        "ativo":"1", 
+        "cpf":"74159632585"
+    },
+    {
+        "id":85, 
+        "nome":"FELIPE ALBUQUERQUE", 
+        "dataNasc":"2021-10-13", 
+        "email":"felipe@felipe.com.br", 
+        "senha":"felipe", 
+        "troca_senha":"0", 
+        "papel":"administrador", 
+        "ativo":"1", 
+        "cpf":""
+    },
+    {
+        "id":82, 
+        "nome":"FELIPE HENRIQUE", 
+        "dataNasc":"2021-10-13", 
+        "email":"felipe@felipe.com.br", 
+        "senha":"felipe", 
+        "troca_senha":"0", 
+        "papel":"administrador", 
+        "ativo":"1", 
+        "cpf":""
+    },
+    {
+        "id":15, 
+        "nome":"B\u00c1RBARA 01 - FERREIRA DE CARVALHO", 
+        "dataNasc":"2021-10-18", 
+        "email":"barbara_rc_@hotmail.com", 
+        "senha":"8af3550fe7c3dd2c3de940ea9844489f", 
+        "troca_senha":"0", 
+        "papel":"administrador", 
+        "ativo":"1", 
+        "cpf":"43845116803"
+    },
+    {
+        "id":16, 
+        "nome":"teste", 
+        "dataNasc":"2021-10-20", 
+        "email":"adalberto@adalberto.com.br", 
+        "senha":"595655274a6504ac3d78d8032077a6a5", 
+        "troca_senha":"0", 
+        "papel":"administrador", 
+        "ativo":"1", 
+        "cpf":"43845116803"
+    },
+    {
+        "id":17, 
+        "nome":"TESTE EMAIL", 
+        "dataNasc":"2021-10-08", 
+        "email":"sac@smpontonovo.com.br", 
+        "senha":"8af3550fe7c3dd2c3de940ea9844489f", 
+        "troca_senha":"0", 
+        "papel":"funcionario", 
+        "ativo":"1", 
+        "cpf":"43845116803"
+    },
+    {
+        "id":18, 
+        "nome":"MAIL", 
+        "dataNasc":"2021-10-08", 
+        "email":"redemercadaocentral@gmail.com", 
+        "senha":"8af3550fe7c3dd2c3de940ea9844489f", 
+        "troca_senha":"0", 
+        "papel":"funcionario", 
+        "ativo":"1", 
+        "cpf":"74159632585"
+    },
+    {
+        "id":108, 
+        "nome":"teste", 
+        "dataNasc":"2021-10-11", 
+        "email":"barbara_rc_@hotmail.com", 
+        "senha":"748596", 
+        "troca_senha":"0", 
+        "papel":"administrador", 
+        "ativo":"1", 
+        "cpf":""
+    },
+    {
+        "id":20, 
+        "nome":"MAIL 2", 
+        "dataNasc":"2021-10-08", 
+        "email":"redemercadaocentral@gmail.com", 
+        "senha":"8aa5077bed42925158af0dc3afbe1ddb", 
+        "troca_senha":"0", 
+        "papel":"funcionario", 
+        "ativo":"1", 
+        "cpf":"74159632586"
+    },
+    {
+        "id":86, 
+        "nome":"FELIPE CRICIUMA", 
+        "dataNasc":"2021-10-13", 
+        "email":"felipe@felipe.com.br", 
+        "senha":"felipe", 
+        "troca_senha":"0", 
+        "papel":"administrador", 
+        "ativo":"1", 
+        "cpf":""
+    },
+    {
+        "id":87, 
+        "nome":"FELIPE ALCANTRA", 
+        "dataNasc":"2021-10-13", 
+        "email":"felipe@felipe.com.br", 
+        "senha":"felipe", 
+        "troca_senha":"0", 
+        "papel":"administrador", 
+        "ativo":"1", 
+        "cpf":""
+    }
+
+],
+
+"qtde_registros":
+    {
+      "total": "40"
+    },
+
+"login":
+    {
+      "id": 1,
+      "token_valido": "Darth Vader",
+      "idade" : 26,
+      "telefone" : 34324324,
+      "email" : "darthvader@darthvader.com.br",
+      "token_mensagem": "235243525235234524523523452345235",
+      "protocolo": 200,
+      "usuario" : "Darth Vader",
+      "passw" : "sith"
+    }
+}

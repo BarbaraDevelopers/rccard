@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'walk';
+    src: url('walkway_bold-webfont.eot');
+    src: url('walkway_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('walkway_bold-webfont.woff') format('woff'),
+         url('walkway_bold-webfont.ttf') format('truetype'),
+         url('walkway_bold-webfont.svg#walkway_boldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'walkbold';
+    src: url('walkway_ultrabold-webfont.eot');
+    src: url('walkway_ultrabold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('walkway_ultrabold-webfont.woff') format('woff'),
+         url('walkway_ultrabold-webfont.ttf') format('truetype'),
+         url('walkway_ultrabold-webfont.svg#walkway_ultraboldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.twenty {font-family: 'walkbold';font-size: 20px;}
+.sixteenBlack {font-family: 'walkbold';font-size: 16px;}
+.eighteenHighlight {font-family: 'walk';font-size: 18px;color: #FF0000;}
+.fourteenWalk {font-family: 'walk';font-size: 14px;}
+.fourteen {font-size: 14px;}
+.newsTitle {font-family: 'walkbold';font-size: 30px;	color: #FFFFFF;}
+.mediumRed {font-family: 'walkbold';color: #F00;font-size: 18px;}
+.small {	font-family: 'walkbold';font-size: 14px;}
+.highlight {color: #FF0000;font-weight:bold;text-shadow: 1px 1px #FFFFFF;-webkit-text-shadow: 1px 1px #FFFFFF;-moz-text-shadow: 1px 1px #FFFFFF;-ms-text-shadow: 1px 1px #FFFFFF;}
+.textShadow {
+	text-shadow: 1px 1px #FFFFFF;
+	-webkit-text-shadow: 1px 1px #FFFFFF;
+	-moz-text-shadow: 1px 1px #FFFFFF;
+}
+.lineHeight {
+	line-height: 32px;
+}
+
